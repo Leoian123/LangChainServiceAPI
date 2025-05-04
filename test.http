@@ -1,0 +1,6 @@
+POST http://localhost:8000/api/ask
+Content-Type: application/json
+
+{
+  "query": "Qual è il tuo personaggio di one piece preferito??"
+}
